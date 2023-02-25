@@ -1,0 +1,83 @@
+#head1{
+   text-align:left;
+    font-size:50px;
+    font-family:red serif; 
+    color:rgb(78, 245, 236);
+}
+#about{
+    text-align:left;
+    font-size:25px;
+    color:rgb(237, 231, 233);
+}
+.curved{
+    margin:0 auto;
+    height:200px;
+    background-color:#FFDAB9;
+    border-radius:90px 0 0 0;
+}
+#head2{
+    text-align:left;
+    font-size:40px;
+    font-family:serif;
+    color:#4B0082;
+}
+#para1{
+    text-align:left;
+    font-size:20px;
+    font-family:cursive;
+    color:rgb(9, 9, 9);
+}
+.curved1{
+    margin:0 auto;
+    height:250px;
+    background-color:#ddd980;
+    border-radius:0 90px 0 0;
+}
+#head3{
+    text-align:right;
+    font-size:40px;
+    font-family:serif;
+    color:rgb(242, 30, 30);
+}
+#para2{
+    text-align:right;
+    font-size:20px;
+    font-family:cursive;
+    color:rgb(9, 9, 9);
+}
+.curved2{
+    margin:0 auto;
+    height:260px;
+    background-color:#FFDAB9;
+    border-radius:90px 0 0 0;
+}
+#head4{
+    text-align:left;
+    font-size:40px;
+    font-family:serif;
+    color:#4B0082;;
+}
+#para3{
+    text-align:left;
+    font-size:20px;
+    font-family:cursive;
+    color:rgb(9, 9, 9);
+}
+.curved3{
+    margin:0 auto;
+    height:150px;
+    background-color:#ddd980;
+    border-radius:0 90px 0 0;
+}
+#head5{
+    text-align:right;
+    font-size:40px;
+    font-family:serif;
+    color:rgb(242, 30, 30);
+}
+#para4{
+    text-align:right;
+    font-size:20px;
+    font-family:cursive;
+    color:rgb(9, 9, 9);
+}
